@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+  line-height: 1.5;
+}
+
+header {
+  border-bottom: 2px solid #0072ce;
+}
+
+h1 {
+  color: #0072ce;
+}
+
+footer {
+  margin-top: 40px;
+  color: #555;
+}
